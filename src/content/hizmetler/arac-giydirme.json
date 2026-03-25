@@ -1,0 +1,78 @@
+{
+  "title": "Araç Giydirme",
+  "description": "Ticari araç, servis ve filo giydirme hizmeti. Araç üzerine folyo kaplama ve dijital baskı ile gezici reklam çözümü.",
+  "heroDesc": "Ticari araçlar, servis araçları, kamyonlar ve filolar için profesyonel araç giydirme hizmeti sunuyoruz. Cast ve polimerik folyo ile tam veya kısmi araç kaplama, dijital baskılı araç reklamı ve filo giydirme projeleri gerçekleştiriyoruz. Aracınız her gittiği yerde firmanızın reklam panosu olur.",
+  "order": 7,
+  "icon": "🚗",
+  "shortDesc": "Ticari araç, servis ve filo giydirme",
+  "features": [
+    {
+      "icon": "📣",
+      "title": "Gezici Reklam",
+      "desc": "Aracınız trafikte, parkta, müşteri ziyaretlerinde sürekli firmanızı tanıtır. En etkili maliyet/görünürlük oranına sahip reklam yöntemi."
+    },
+    {
+      "icon": "🛡️",
+      "title": "Boya Koruması",
+      "desc": "Folyo kaplama araç boyasını çizilme, taş sıçraması ve UV hasarından korur. Söküldüğünde orijinal boya korunmuş olarak kalır."
+    },
+    {
+      "icon": "🎨",
+      "title": "Tam veya Kısmi Kaplama",
+      "desc": "Tam araç giydirme ile komple renk değişimi veya kısmi kaplama ile logo ve yazı uygulaması seçenekleri mevcuttur."
+    },
+    {
+      "icon": "🏭",
+      "title": "Filo Çözümleri",
+      "desc": "Birden fazla araçtan oluşan filolar için toplu giydirme projeleri. Kurumsal kimliğe uygun standart tasarım ve uygulama."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Araç İnceleme",
+      "desc": "Araç modeli ve yüzey durumu incelenir. Kaplama alanı ve uygulama yöntemi belirlenir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım ve Mockup",
+      "desc": "Aracın fotoğrafı üzerinde dijital mockup hazırlanır. Tasarım onayınıza sunulur."
+    },
+    {
+      "step": "03",
+      "title": "Baskı ve Laminasyon",
+      "desc": "Folyo üzerine dijital baskı yapılır ve UV laminasyon ile korunur. Folyo ölçüye göre kesilir."
+    },
+    {
+      "step": "04",
+      "title": "Uygulama",
+      "desc": "Profesyonel uygulama ekibimiz tarafından araç yüzeyine ısıtmalı folyo kaplama yapılır. Ortalama 1-2 gün sürer."
+    }
+  ],
+  "useCases": [
+    "Ticari araç reklamı",
+    "Servis ve kurye araçları",
+    "Kamyon ve TIR kaplama",
+    "Filo araçları giydirme",
+    "Taksi ve toplu taşıma reklamı",
+    "Özel araç renk değişimi"
+  ],
+  "faq": [
+    {
+      "q": "Araç giydirme araca zarar verir mi?",
+      "a": "Hayır, kaliteli cast folyo kullanıldığında araç boyasına zarar vermez. Profesyonel söküm ile orijinal boya korunmuş olarak ortaya çıkar."
+    },
+    {
+      "q": "Araç giydirme ne kadar süre dayanır?",
+      "a": "Cast folyo ile yapılan uygulamalar 5-7 yıl, polimerik folyo ile yapılanlar 3-5 yıl dayanır. Araç yıkama ve bakımı ömrü uzatır."
+    },
+    {
+      "q": "Araç giydirme ne kadar sürede yapılır?",
+      "a": "Kısmi kaplama (logo, yazı) 1 günde, tam araç giydirme 2-3 günde tamamlanır. Araç boyutuna göre süre değişebilir."
+    },
+    {
+      "q": "Filo araçlarına toplu indirim var mı?",
+      "a": "Evet, 5 ve üzeri araçtan oluşan filo projelerinde özel fiyat avantajı sunuyoruz. Tasarım standardizasyonu ile maliyet düşürülür."
+    }
+  ]
+}

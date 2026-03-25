@@ -1,0 +1,78 @@
+{
+  "title": "Mesh Baskı",
+  "description": "Bina cephesi, iskele ve çit mesh baskı hizmeti. Rüzgar geçirgenliği sayesinde büyük yüzeylerde güvenli ve etkili reklam çözümü.",
+  "heroDesc": "Mesh (delikli branda) baskı, bina cepheleri, inşaat iskeleleri ve çit kaplamalarında kullanılan rüzgar geçirgen bez baskı çözümüdür. Mikro delikli yapısı sayesinde rüzgar yükünü azaltır ve büyük alanlarda güvenle kullanılır. Yüksek çözünürlüklü baskı ile uzaktan net görüntü sunar.",
+  "order": 2,
+  "icon": "🏢",
+  "shortDesc": "Bina cephesi, iskele ve çit mesh baskı",
+  "features": [
+    {
+      "icon": "🌬️",
+      "title": "Rüzgar Geçirgenliği",
+      "desc": "Mikro delikli yapısı sayesinde rüzgarı %30-40 oranında geçirerek büyük yüzeylerde güvenli kullanım sağlar."
+    },
+    {
+      "icon": "🖼️",
+      "title": "Net Görüntü Kalitesi",
+      "desc": "Uzak mesafeden bakıldığında delikler görünmez, baskı tam ve net olarak algılanır. Yüksek çözünürlüklü baskı imkanı sunar."
+    },
+    {
+      "icon": "⚖️",
+      "title": "Hafif ve Kolay Montaj",
+      "desc": "Standart brandaya göre çok daha hafiftir. Büyük cephelere kolayca monte edilir ve söküm işlemi pratiktir."
+    },
+    {
+      "icon": "🏗️",
+      "title": "İnşaat ve Restorasyon İçin İdeal",
+      "desc": "Bina yenileme ve inşaat dönemlerinde çirkin görüntüyü kapatırken aynı zamanda reklam alanı oluşturur."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Alan Ölçümü",
+      "desc": "Mesh uygulanacak cephe veya alanın ölçüleri yerinde alınır. Rüzgar yükü ve montaj noktaları değerlendirilir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım Hazırlama",
+      "desc": "Büyük yüzeylere uygun tasarım hazırlanır. Uzak mesafe okunabilirliği ve renk kontrastı optimize edilir."
+    },
+    {
+      "step": "03",
+      "title": "Mesh Baskı",
+      "desc": "Geniş format dijital baskı makinelerinde mesh kumaşa yüksek çözünürlüklü baskı yapılır."
+    },
+    {
+      "step": "04",
+      "title": "Montaj ve Gergi",
+      "desc": "Profesyonel ekibimiz tarafından cepheye güvenli şekilde monte edilir. Gergi ve sabitleme aparatları dahildir."
+    }
+  ],
+  "useCases": [
+    "Bina cephe reklamı",
+    "İnşaat iskelesi kapatma",
+    "Çit ve pano kaplama",
+    "Alışveriş merkezi cephesi",
+    "Stadyum ve spor tesisi",
+    "Fabrika dış cephe tanıtımı"
+  ],
+  "faq": [
+    {
+      "q": "Mesh baskı ile branda baskı arasındaki fark nedir?",
+      "a": "Mesh baskı delikli yapıdadır ve rüzgarı geçirir, bu yüzden büyük cephelerde güvenlidir. Branda tam kapalı yapıdadır ve rüzgar yüküne maruz kalır. Yüksek binalarda ve geniş alanlarda mesh tercih edilmelidir."
+    },
+    {
+      "q": "Mesh baskıda görüntü kalitesi düşük müdür?",
+      "a": "Hayır, modern mesh malzemeler %70-80 baskı alanı sunar. Uzak mesafeden bakıldığında delikler görünmez ve görüntü net algılanır. Özellikle büyük alanlarda son derece etkili sonuç verir."
+    },
+    {
+      "q": "Mesh baskı ne kadar süre dayanır?",
+      "a": "Dış mekanda kaliteli mesh baskı 2-4 yıl dayanır. UV korumalı mürekkep ve sağlam mesh kumaş kullanıldığında bu süre uzayabilir."
+    },
+    {
+      "q": "Mesh baskıda montaj hizmeti sunuyor musunuz?",
+      "a": "Evet, İstanbul genelinde profesyonel montaj ekibimiz ile bina cephesi, iskele ve çit montajı yapıyoruz. Yüksek binalarda vinç ve platform desteği sağlıyoruz."
+    }
+  ]
+}

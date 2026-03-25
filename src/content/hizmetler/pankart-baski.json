@@ -1,0 +1,78 @@
+{
+  "title": "Pankart Baskı",
+  "description": "Tören, kutlama ve reklam pankartları. Branda ve bez pankart baskı ile açık alan reklamlarınız için etkili çözümler.",
+  "heroDesc": "Açılış törenleri, kutlama etkinlikleri, yol kenarı reklamları ve kampanya duyuruları için profesyonel pankart baskı hizmeti sunuyoruz. PVC branda ve bez kumaş seçenekleri ile dış mekan dayanıklılığı yüksek, renkli ve dikkat çekici pankartlar üretiyoruz. Her ölçüde üretim ve montaja hazır teslimat.",
+  "order": 5,
+  "icon": "📋",
+  "shortDesc": "Tören, kutlama ve reklam pankartları",
+  "features": [
+    {
+      "icon": "📐",
+      "title": "Her Ölçüde Üretim",
+      "desc": "50 cm genişlikten 3.2 metre genişliğe, istenilen uzunlukta pankart üretimi. Standart ve özel ölçü seçenekleri."
+    },
+    {
+      "icon": "🌧️",
+      "title": "Dış Mekan Dayanıklılığı",
+      "desc": "PVC branda pankartlar su geçirmez, UV dayanımlı ve rüzgara karşı mukavemetli. Dış mekanda uzun ömürlü kullanım."
+    },
+    {
+      "icon": "🎨",
+      "title": "Yüksek Çözünürlük",
+      "desc": "720-1440 DPI çözünürlükte baskı ile canlı renkler, net yazılar ve detaylı görseller elde edilir."
+    },
+    {
+      "icon": "🔩",
+      "title": "Montaj Aksesuarları",
+      "desc": "Kuşgözü delik, halat, gergi aparatı ve plastik bağ dahil tüm montaj malzemeleri ile birlikte teslim edilir."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Bilgi ve Ölçü",
+      "desc": "Pankart kullanım amacı, asılacak alan ölçüleri ve adet bilgisi alınır."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım",
+      "desc": "Pankart tasarımınız yoksa profesyonel tasarım ekibimiz hazırlar. Mevcut tasarımınız baskıya uygun hale getirilir."
+    },
+    {
+      "step": "03",
+      "title": "Baskı ve Konfeksiyon",
+      "desc": "Seçilen malzemeye geniş format dijital baskı yapılır. Kenar dikişleri ve kuşgözü delikleri tamamlanır."
+    },
+    {
+      "step": "04",
+      "title": "Teslimat veya Montaj",
+      "desc": "Pankartlar montaja hazır olarak teslim edilir. Talep halinde İstanbul içi montaj hizmeti sunulur."
+    }
+  ],
+  "useCases": [
+    "Mağaza açılış pankartı",
+    "Yol kenarı reklam pankartı",
+    "Tören ve kutlama pankartları",
+    "Belediye duyuru pankartları",
+    "İndirim ve kampanya pankartları",
+    "Spor etkinlikleri pankartları"
+  ],
+  "faq": [
+    {
+      "q": "Pankart baskı dış mekanda ne kadar dayanır?",
+      "a": "PVC branda pankartlar dış mekanda 2-4 yıl dayanır. Kaliteli malzeme ve UV korumalı mürekkep kullanımı ile bu süre uzatılabilir."
+    },
+    {
+      "q": "Pankart tasarımı yapıyor musunuz?",
+      "a": "Evet, profesyonel grafik tasarım ekibimiz pankart tasarımını yapıyor. Logo, metin ve görselleri etkili bir şekilde düzenleyerek dikkat çekici pankartlar hazırlıyoruz."
+    },
+    {
+      "q": "Pankart baskıda hangi malzemeler kullanılır?",
+      "a": "PVC branda (dış mekan), bez kumaş (iç mekan), mesh (rüzgar geçirgen) ve backlight branda (ışıklı) seçenekleri mevcuttur."
+    },
+    {
+      "q": "Pankart baskı ne kadar sürede hazır olur?",
+      "a": "Standart siparişlerde 1-2 iş günü, acil siparişlerde aynı gün teslim edilir. Çok büyük ve yüksek adetli siparişlerde süre uzayabilir."
+    }
+  ]
+}

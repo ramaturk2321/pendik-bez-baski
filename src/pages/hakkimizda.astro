@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { company, contact } from '../lib/site-data';
+---
+
+<BaseLayout title="Hakkımızda" description="Pendik Bez Baskı Merkezi hakkında — Eymen Reklam güvencesiyle 25 yıllık tecrübe.">
+
+  <!-- Hero -->
+  <section class="bg-koyu-800 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold mb-4">Hakkımızda</h1>
+      <p class="text-koyu-300 text-lg max-w-2xl mx-auto">{company.experience} yıllık tecrübe ile profesyonel bez baskı hizmeti.</p>
+    </div>
+  </section>
+
+  <section class="py-20">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="prose prose-lg max-w-none">
+        <div class="bg-eymen-50 border-l-4 border-eymen-500 p-6 rounded-r-xl mb-10">
+          <p class="text-sm text-koyu-600 font-medium italic">{company.legalNote}</p>
+        </div>
+
+        <h2 class="text-2xl font-bold text-koyu-800 mb-4">Biz Kimiz?</h2>
+        <p class="text-koyu-600 leading-relaxed mb-6">
+          Pendik Bez Baskı Merkezi, 1999 yılından bu yana reklam ve baskı sektöründe faaliyet gösteren <strong>Eymen Reklam</strong>'ın bez baskı hizmetlerine özel alt markasıdır. İstanbul Pendik'teki modern üretim tesisimizde branda, bayrak, mesh, bez afiş, pankart, tente, araç giydirme ve kumaş baskı hizmeti sunuyoruz.
+        </p>
+
+        <h2 class="text-2xl font-bold text-koyu-800 mb-4">Misyonumuz</h2>
+        <p class="text-koyu-600 leading-relaxed mb-6">
+          Müşterilerimizin reklam, tanıtım ve dekorasyon amaçlı bez baskı ihtiyaçlarını en yüksek kalitede, uygun fiyatla ve hızlı teslimatla karşılamak. Her projede müşteri memnuniyetini ön planda tutuyoruz.
+        </p>
+
+        <h2 class="text-2xl font-bold text-koyu-800 mb-4">Teknik Altyapımız</h2>
+        <ul class="space-y-3 mb-6">
+          <li class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-eymen-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+            <span class="text-koyu-600">Geniş format dijital baskı makineleri (3.2m genişlik)</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-eymen-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+            <span class="text-koyu-600">UV korumalı ve su geçirmez mürekkep sistemi</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-eymen-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+            <span class="text-koyu-600">Endüstriyel dikiş ve konfeksiyon atölyesi</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-eymen-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+            <span class="text-koyu-600">Süblimasyon ve solvent baskı teknolojileri</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-eymen-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+            <span class="text-koyu-600">Profesyonel montaj ekibi ve araç filosu</span>
+          </li>
+        </ul>
+
+        <div class="bg-koyu-50 rounded-2xl p-8 text-center">
+          <h3 class="text-xl font-bold text-koyu-800 mb-3">İletişime Geçin</h3>
+          <p class="text-koyu-500 mb-4">Projeniz hakkında bilgi almak için bize ulaşın.</p>
+          <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/teklif-al" class="inline-flex items-center justify-center bg-eymen-500 hover:bg-eymen-600 text-white px-6 py-3 rounded-xl font-bold transition-all">
+              Online Teklif Al
+            </a>
+            <a href={contact.mobileHref} class="inline-flex items-center justify-center border-2 border-koyu-300 text-koyu-700 hover:border-eymen-500 hover:text-eymen-600 px-6 py-3 rounded-xl font-bold transition-all">
+              {contact.mobile}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

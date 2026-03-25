@@ -1,0 +1,78 @@
+{
+  "title": "Bayrak Baskı",
+  "description": "Elde bayrak, plaj bayrak, masa bayrak ve flama baskı hizmeti. Çift taraflı baskı seçeneği ile canlı renkler ve hızlı üretim.",
+  "heroDesc": "Her türlü bayrak ihtiyacınız için profesyonel baskı hizmeti sunuyoruz. Elde bayrak, plaj bayrak (yelken bayrak), masa bayrak, flama ve özel tasarım bayraklar yüksek kaliteli polyester kumaş üzerine süblimasyon veya dijital baskı teknolojisi ile üretilir. Çift taraflı baskı seçeneği mevcuttur.",
+  "order": 3,
+  "icon": "🚩",
+  "shortDesc": "Elde bayrak, plaj bayrak, masa bayrak",
+  "features": [
+    {
+      "icon": "🎨",
+      "title": "Canlı ve Kalıcı Renkler",
+      "desc": "Süblimasyon baskı teknolojisi ile kumaşın içine nüfuz eden mürekkepler sayesinde solmayan, canlı renkler elde edilir."
+    },
+    {
+      "icon": "🔄",
+      "title": "Çift Taraflı Baskı",
+      "desc": "Tek taraflı veya çift taraflı baskı seçenekleri mevcuttur. Çift taraflı bayraklarda her iki yüzde de net görüntü sağlanır."
+    },
+    {
+      "icon": "🏭",
+      "title": "Hızlı Üretim",
+      "desc": "Kendi üretim tesisimizde hızlı baskı ve konfeksiyon. Acil siparişlerde aynı gün teslimat imkanı."
+    },
+    {
+      "icon": "📐",
+      "title": "Her Ölçüde Üretim",
+      "desc": "30×45 cm masa bayraktan 3×5 metre dev bayraklara kadar her ölçüde bayrak üretimi yapılır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Model ve Ölçü Belirleme",
+      "desc": "Bayrak tipi (elde, plaj, masa, flama), ölçü ve adet bilgisi alınır. Baskı yöntemi (tek/çift taraflı) belirlenir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım Hazırlığı",
+      "desc": "Logonuz ve tasarımınız bayrak formatına uygun olarak hazırlanır. Renk profili ve çözünürlük optimize edilir."
+    },
+    {
+      "step": "03",
+      "title": "Baskı ve Konfeksiyon",
+      "desc": "Polyester kumaş üzerine süblimasyon veya dijital baskı yapılır. Ardından dikiş, tunnel ve aksesuar montajı tamamlanır."
+    },
+    {
+      "step": "04",
+      "title": "Kalite Kontrol ve Teslimat",
+      "desc": "Her bayrak tek tek kontrol edilir. Direk, altlık veya askı aparatı ile birlikte paketlenip teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Firma tanıtım bayrakları",
+    "Mağaza önü plaj bayrak",
+    "Toplantı ve masa bayrakları",
+    "Seçim ve kampanya bayrakları",
+    "Spor etkinlikleri bayrakları",
+    "Belediye ve resmi kurum bayrakları"
+  ],
+  "faq": [
+    {
+      "q": "Bayrak baskıda minimum sipariş adedi var mı?",
+      "a": "Minimum sipariş adedi yoktur. Tek adet bayrak bile üretim yapılabilir. Toplu siparişlerde birim fiyat avantajı sağlanır."
+    },
+    {
+      "q": "Plaj bayrak direkleri de temin ediliyor mu?",
+      "a": "Evet, plaj bayrak (yelken bayrak) direkleri farklı yüksekliklerde (2m, 3m, 4m, 5m) stokta mevcuttur. Bayrak ile birlikte direk ve çapraz ayak da sipariş edebilirsiniz."
+    },
+    {
+      "q": "Bayrak baskıda çift taraflı baskı nasıl yapılır?",
+      "a": "Çift taraflı bayraklarda iki ayrı kumaşa baskı yapılır ve araya opak (ışık geçirmeyen) kumaş konularak dikilir. Böylece her iki taraftan da net görüntü sağlanır."
+    },
+    {
+      "q": "Bayrak baskı ne kadar sürede teslim edilir?",
+      "a": "Standart siparişlerde 1-2 iş günü içinde teslimat yapılır. Acil siparişlerde aynı gün teslim seçeneği mevcuttur."
+    }
+  ]
+}

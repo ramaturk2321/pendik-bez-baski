@@ -1,0 +1,78 @@
+{
+  "title": "Tente Baskı",
+  "description": "Mağaza, kafe ve restoran tente baskı hizmeti. Güneşlik ve yağmurluk tente kumaşları üzerine logolu, yazılı profesyonel baskı.",
+  "heroDesc": "Mağaza vitrinleri, kafeler, restoranlar ve işyerleri için profesyonel tente baskı hizmeti sunuyoruz. Akrilik, polyester ve PVC tente kumaşları üzerine logo, firma adı ve grafik baskı yapıyoruz. Hem güneş koruması sağlayan hem de işletmenizi tanıtan tente çözümleri ile mekanınıza prestij katıyoruz.",
+  "order": 6,
+  "icon": "☀️",
+  "shortDesc": "Mağaza, kafe ve restoran tente baskı",
+  "features": [
+    {
+      "icon": "🏪",
+      "title": "Marka Görünürlüğü",
+      "desc": "İşletme logosu ve bilgileri tente üzerine profesyonelce basılır. Caddeden geçen potansiyel müşterileriniz için etkili tanıtım."
+    },
+    {
+      "icon": "☔",
+      "title": "Su ve Güneş Koruması",
+      "desc": "Tente kumaşları hem güneş ışınlarını hem de yağmuru engeller. İşletme girişinde konforlu bir alan oluşturur."
+    },
+    {
+      "icon": "🎨",
+      "title": "Renk Seçenekleri",
+      "desc": "Geniş renk paleti ile işletmenizin kurumsal renklerine uygun tente üretimi yapılır. Özel renk eşleştirme mevcuttur."
+    },
+    {
+      "icon": "🔧",
+      "title": "Komple Montaj",
+      "desc": "Tente baskı ile birlikte alüminyum veya çelik konstrüksiyon, montaj ve mekanik sistem kurulumu da yapılır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Keşif ve Ölçü",
+      "desc": "İşletmenize yerinde keşif yapılır. Tente ölçüleri, montaj noktaları ve cephe durumu değerlendirilir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım ve Renk Seçimi",
+      "desc": "Logo ve yazı yerleşimi tasarlanır. Kumaş rengi ve baskı detayları belirlenir. 3D önizleme sunulur."
+    },
+    {
+      "step": "03",
+      "title": "Üretim ve Baskı",
+      "desc": "Tente kumaşı ölçüye göre kesilir ve üzerine baskı uygulanır. Konfeksiyon (dikiş, fermuar) tamamlanır."
+    },
+    {
+      "step": "04",
+      "title": "Montaj ve Teslim",
+      "desc": "Tente sistemi profesyonel ekibimiz tarafından monte edilir. Mekanik açılır-kapanır veya sabit sistemler kurulur."
+    }
+  ],
+  "useCases": [
+    "Mağaza giriş tentesi",
+    "Kafe ve restoran teras tentesi",
+    "Market ve eczane tentesi",
+    "Otel giriş markizi",
+    "İşyeri vitrin tentesi",
+    "Bahçe ve teras güneşlik tentesi"
+  ],
+  "faq": [
+    {
+      "q": "Tente baskı ne kadar dayanır?",
+      "a": "Kaliteli akrilik tente kumaşları üzerine yapılan baskılar 5-8 yıl dayanır. Düzenli bakım ve temizlik ile bu süre uzatılabilir."
+    },
+    {
+      "q": "Mevcut tenteme baskı yaptırabilir miyim?",
+      "a": "Kumaş durumuna göre mevcut tentenize de baskı yapılabilir. Ancak kumaş eskimişse yeni kumaş değişimi ile birlikte baskı yapılması önerilir."
+    },
+    {
+      "q": "Tente sistemi montajı da yapılıyor mu?",
+      "a": "Evet, komple tente sistemi kurulumu yapıyoruz. Mafsallı kol, motorlu açılır-kapanır ve sabit tente sistemleri monte ediyoruz."
+    },
+    {
+      "q": "Tente baskıda hangi malzemeler kullanılır?",
+      "a": "Akrilik kumaş (uzun ömür, doğal görünüm), polyester kumaş (ekonomik), PVC branda (dayanıklı, kolay temizlenebilir) seçenekleri mevcuttur."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Bez Afiş Baskı",
+  "description": "Kampanya, açılış ve etkinlik bez afişleri. Dayanıklı kumaş üzerine yüksek çözünürlüklü baskı ile dikkat çekici bez afişler.",
+  "heroDesc": "Mağaza kampanyaları, açılış törenleri, indirim dönemleri ve etkinlikler için profesyonel bez afiş baskı hizmeti sunuyoruz. TNT kumaş, polyester ve branda malzeme seçenekleri ile iç ve dış mekan kullanımına uygun bez afişler üretiyoruz. Kenar dikişi ve kuşgözü ile montaja hazır teslimat yapıyoruz.",
+  "order": 4,
+  "icon": "📢",
+  "shortDesc": "Kampanya, açılış ve etkinlik bez afişleri",
+  "features": [
+    {
+      "icon": "🎯",
+      "title": "Dikkat Çekici Baskı",
+      "desc": "Yüksek çözünürlüklü baskı ile canlı renkler ve net detaylar. Uzak mesafeden okunabilir tasarım desteği sunulur."
+    },
+    {
+      "icon": "🧵",
+      "title": "Profesyonel Konfeksiyon",
+      "desc": "Kenar dikişi, kuşgözü delik, tunnel (direk geçirmeli) ve halat geçirme gibi tüm konfeksiyon işlemleri yapılır."
+    },
+    {
+      "icon": "🏪",
+      "title": "İç ve Dış Mekan Uyumlu",
+      "desc": "Mağaza içi TNT afişlerden dış mekan branda afişlere kadar her ortama uygun malzeme seçenekleri mevcuttur."
+    },
+    {
+      "icon": "⚡",
+      "title": "Hızlı Üretim",
+      "desc": "Kampanya ve sezon değişikliklerinde hızlı üretim ile aynı gün veya ertesi gün teslimat imkanı."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Talep ve Ölçü",
+      "desc": "Bez afiş kullanım alanı, ölçü ve adet bilgisi alınır. İç mekan mı dış mekan mı kullanılacağı belirlenir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım ve Malzeme Seçimi",
+      "desc": "Tasarımınız baskıya hazırlanır. İç mekan için TNT kumaş, dış mekan için branda veya polyester seçenekleri sunulur."
+    },
+    {
+      "step": "03",
+      "title": "Baskı ve Konfeksiyon",
+      "desc": "Geniş format dijital baskı yapılır. Ardından dikiş, kuşgözü ve montaj aparatları hazırlanır."
+    },
+    {
+      "step": "04",
+      "title": "Paketleme ve Teslimat",
+      "desc": "Bez afişler rulo veya katlı olarak paketlenir. İstanbul içi aynı gün kargo veya elden teslimat yapılır."
+    }
+  ],
+  "useCases": [
+    "Mağaza kampanya afişleri",
+    "İndirim ve sezon dönemi afişleri",
+    "Açılış töreni pankartları",
+    "Market ve AVM iç mekan afişleri",
+    "Etkinlik ve fuar afişleri",
+    "Belediye ve kamu duyuru afişleri"
+  ],
+  "faq": [
+    {
+      "q": "Bez afiş ve branda afiş arasında ne fark var?",
+      "a": "Bez afiş genellikle TNT veya polyester kumaştan yapılır, daha hafiftir ve iç mekanda kullanılır. Branda afiş PVC malzemeden yapılır, su geçirmez ve dış mekan dayanıklılığı yüksektir."
+    },
+    {
+      "q": "Bez afişlerde çift taraflı baskı yapılabilir mi?",
+      "a": "Evet, polyester kumaş üzerine çift taraflı baskı yapılabilir. Asılı bez afişlerde her iki taraftan da görüntü sağlanır."
+    },
+    {
+      "q": "Bez afiş baskı fiyatı nasıl hesaplanır?",
+      "a": "Fiyat; malzeme tipi (TNT, polyester, branda), baskı alanı (m²), konfeksiyon detayları (dikiş, kuşgözü) ve adet miktarına göre belirlenir."
+    },
+    {
+      "q": "Acil bez afiş siparişi alıyor musunuz?",
+      "a": "Evet, acil siparişlerde aynı gün üretim ve teslimat yapabiliyoruz. Sabah verilen siparişler akşama hazır olabilir."
+    }
+  ]
+}

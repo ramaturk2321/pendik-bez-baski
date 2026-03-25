@@ -1,0 +1,78 @@
+{
+  "title": "Branda Baskı",
+  "description": "İnşaat, depo ve cephe branda baskı hizmeti. Dayanıklı, UV korumalı ve su geçirmez branda üzerine yüksek çözünürlüklü dijital baskı.",
+  "heroDesc": "İnşaat alanları, depo kapatmaları, bina cepheleri ve açık alan reklamları için profesyonel branda baskı hizmeti sunuyoruz. 440 gr/m² PVC branda üzerine yapılan baskılarımız UV dayanımlı mürekkepler sayesinde 3-5 yıl boyunca renklerini korur. 3.2 metre genişliğe kadar tek parça baskı kapasitemiz ile her ölçüde branda üretimi yapıyoruz.",
+  "order": 1,
+  "icon": "🏗️",
+  "shortDesc": "İnşaat, depo ve cephe branda baskı",
+  "features": [
+    {
+      "icon": "💪",
+      "title": "Yüksek Dayanıklılık",
+      "desc": "440-510 gr/m² kalınlığında PVC branda malzemesi kullanılır. Yırtılma, rüzgar ve darbelere karşı üstün mukavemet sağlar."
+    },
+    {
+      "icon": "☀️",
+      "title": "UV ve Hava Koşullarına Dayanım",
+      "desc": "UV korumalı mürekkepler sayesinde güneş, yağmur ve sert hava koşullarında 3-5 yıl boyunca renk solması yaşanmaz."
+    },
+    {
+      "icon": "📏",
+      "title": "Geniş Format Baskı",
+      "desc": "3.2 metre genişliğe kadar tek parça baskı yapılır. Daha geniş brandalar birleştirme (kaynak) yöntemiyle üretilir."
+    },
+    {
+      "icon": "🔧",
+      "title": "Montaja Hazır Teslimat",
+      "desc": "Kenar dikişi, kuşgözü (ilık) delik ve halat geçirme gibi tüm montaj detayları eksiksiz olarak hazırlanır."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Ölçü ve Tasarım",
+      "desc": "Branda uygulanacak alanın ölçüleri alınır ve tasarım çalışması yapılır. Mevcut tasarımınız varsa baskıya uygun hale getirilir."
+    },
+    {
+      "step": "02",
+      "title": "Malzeme Seçimi",
+      "desc": "Kullanım alanına göre branda kalınlığı ve tipi belirlenir. İç mekan, dış mekan veya backlight branda seçenekleri sunulur."
+    },
+    {
+      "step": "03",
+      "title": "Dijital Baskı",
+      "desc": "Geniş format dijital baskı makinelerinde yüksek çözünürlüklü baskı yapılır. Solvent veya UV mürekkepler kullanılır."
+    },
+    {
+      "step": "04",
+      "title": "Kesim, Dikiş ve Teslimat",
+      "desc": "Baskı sonrası kenar dikişleri yapılır, kuşgözü delikleri açılır ve montaja hazır şekilde teslim edilir."
+    }
+  ],
+  "useCases": [
+    "İnşaat alanı çevre branda",
+    "Bina cephe reklamı",
+    "Depo ve fabrika kapatma",
+    "Açılış ve kampanya branda",
+    "Otopark üstü branda kaplama",
+    "Fuar ve etkinlik alan kapatma"
+  ],
+  "faq": [
+    {
+      "q": "Branda baskı kaç yıl dayanır?",
+      "a": "Kaliteli PVC branda üzerine UV korumalı mürekkeple yapılan baskılar dış mekanda 3-5 yıl, iç mekanda 7-10 yıl dayanır. Branda kalitesi ve hava koşullarına göre bu süre değişebilir."
+    },
+    {
+      "q": "En büyük branda ölçüsü nedir?",
+      "a": "Tek parça baskıda 3.2 metre genişlik kapasitemiz vardır. Uzunluk sınırsızdır. Daha geniş brandalar endüstriyel kaynak yöntemiyle birleştirilerek istenilen ölçüde üretilebilir."
+    },
+    {
+      "q": "Branda baskıda montaj hizmeti var mı?",
+      "a": "Evet, İstanbul genelinde branda montaj hizmeti sunuyoruz. Kuşgözü, halat, gergi aparatı ve çelik konstrüksiyon montajı dahil komple çözüm sağlıyoruz."
+    },
+    {
+      "q": "Branda baskı fiyatı nasıl belirlenir?",
+      "a": "Fiyat; branda tipi (standart, laminasyonlu, backlight), baskı alanı (m²), adet ve montaj dahil olup olmadığına göre belirlenir. Ücretsiz keşif ve fiyat teklifi için bizi arayın."
+    }
+  ]
+}

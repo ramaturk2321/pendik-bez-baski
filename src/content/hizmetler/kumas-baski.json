@@ -1,0 +1,78 @@
+{
+  "title": "Kumaş Baskı",
+  "description": "Fuar, sahne ve dekoratif kumaş baskı hizmeti. Polyester ve pamuk kumaşlar üzerine yüksek kaliteli dijital baskı.",
+  "heroDesc": "Fuar standları, sahne dekorları, sergi alanları ve dekoratif mekan düzenlemeleri için profesyonel kumaş baskı hizmeti sunuyoruz. Polyester, saten, kanvas ve özel kumaşlar üzerine süblimasyon ve dijital baskı teknolojisi ile canlı, yumuşak ve doğal görünümlü baskılar üretiyoruz.",
+  "order": 8,
+  "icon": "🧵",
+  "shortDesc": "Fuar, sahne ve dekoratif kumaş baskı",
+  "features": [
+    {
+      "icon": "✨",
+      "title": "Doğal Kumaş Dokusu",
+      "desc": "Baskı kumaşın doğal dokusunu bozmaz. Yumuşak, esnek ve doğal görünümlü sonuçlar elde edilir."
+    },
+    {
+      "icon": "🎨",
+      "title": "Geniş Renk Gamı",
+      "desc": "Süblimasyon baskı teknolojisi ile kumaş liflerine nüfuz eden mürekkepler sayesinde canlı ve solmayan renkler."
+    },
+    {
+      "icon": "📏",
+      "title": "Geniş En Baskı",
+      "desc": "3.2 metre genişliğe kadar tek parça kumaş baskı. Fuar standı backdrop ve sahne perdeleri için ideal."
+    },
+    {
+      "icon": "♻️",
+      "title": "Yıkanabilir Baskı",
+      "desc": "Süblimasyon baskılı kumaşlar yıkamaya dayanıklıdır. Tekrar tekrar kullanılabilir, renk kaybı yaşanmaz."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "İhtiyaç Analizi",
+      "desc": "Kumaş kullanım alanı, boyut ve miktar belirlenir. Kumaş tipi (polyester, saten, kanvas) ve baskı yöntemi seçilir."
+    },
+    {
+      "step": "02",
+      "title": "Tasarım Hazırlığı",
+      "desc": "Tasarım dosyası kumaş baskıya uygun formata dönüştürülür. Renk profili ve ölçekleme yapılır."
+    },
+    {
+      "step": "03",
+      "title": "Baskı Uygulama",
+      "desc": "Süblimasyon veya direkt dijital baskı yöntemiyle kumaş üzerine yüksek çözünürlüklü baskı yapılır."
+    },
+    {
+      "step": "04",
+      "title": "Konfeksiyon ve Teslimat",
+      "desc": "Gerekli dikiş, hem ve aksesuar montajı yapılır. Rulo veya katlı olarak paketlenip teslim edilir."
+    }
+  ],
+  "useCases": [
+    "Fuar standı backdrop",
+    "Sahne perdesi ve dekor",
+    "Sergi ve galeri duvar kumaşı",
+    "Otel ve restoran dekorasyon",
+    "Mağaza iç mekan kumaş dekor",
+    "Etkinlik ve düğün dekorasyon"
+  ],
+  "faq": [
+    {
+      "q": "Hangi kumaş türlerine baskı yapılabilir?",
+      "a": "Polyester, saten, kanvas, şifon ve mikro fiber kumaşlara baskı yapılabilir. Süblimasyon baskı için en az %80 polyester içerikli kumaşlar uygundur."
+    },
+    {
+      "q": "Kumaş baskı yıkamaya dayanıklı mı?",
+      "a": "Süblimasyon baskı ile üretilen kumaşlar 30°C'de makine yıkamasına dayanıklıdır. Renkler solmaz ve baskı kalitesi korunur."
+    },
+    {
+      "q": "Kumaş baskıda minimum sipariş var mı?",
+      "a": "Minimum sipariş adedi yoktur. Tek parça kumaş baskı da yapılır. Metre bazında sipariş alınır."
+    },
+    {
+      "q": "Fuar standı için kumaş baskı ne kadar sürede hazır olur?",
+      "a": "Standart siparişlerde 2-3 iş günü içinde teslim edilir. Acil siparişlerde ertesi gün teslimat mümkündür."
+    }
+  ]
+}
