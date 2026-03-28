@@ -6,13 +6,13 @@ const projeler = await getCollection('projeler');
 const sortedProjeler = projeler.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 ---
 
-<BaseLayout title="Portfolyo" description="Pendik UV Baskı Merkezi portfolyosu — Cam, pleksi, ahşap ve metal UV baskı projelerimiz.">
+<BaseLayout title="Portfolyo" description="Pendik Bez Baskı Merkezi portfolyosu — Branda, bayrak, mesh ve bez afiş baskı projelerimiz.">
 
   <!-- Hero -->
   <section class="bg-koyu-800 text-white py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <h1 class="text-4xl md:text-5xl font-extrabold mb-4">Portfolyo</h1>
-      <p class="text-koyu-300 text-lg max-w-2xl mx-auto">Tamamladığımız UV baskı projelerinden örnekler.</p>
+      <p class="text-koyu-300 text-lg max-w-2xl mx-auto">Tamamladığımız bez baskı projelerinden örnekler.</p>
     </div>
   </section>
 
@@ -37,7 +37,7 @@ const sortedProjeler = projeler.sort((a, b) => (a.data.order ?? 999) - (b.data.o
         <div class="text-center py-20">
           <span class="text-6xl mb-4 block">📷</span>
           <h2 class="text-2xl font-bold text-koyu-800 mb-3">Portfolyo Yakında</h2>
-          <p class="text-koyu-500 max-w-md mx-auto">Tamamladığımız UV baskı projelerini yakında burada paylaşacağız. Projelerimizi görmek için bizi takip edin.</p>
+          <p class="text-koyu-500 max-w-md mx-auto">Tamamladığımız bez baskı projelerini yakında burada paylaşacağız. Projelerimizi görmek için bizi takip edin.</p>
           <a href="/teklif-al" class="inline-flex items-center gap-2 bg-eymen-500 hover:bg-eymen-600 text-white px-6 py-3 rounded-xl font-bold mt-6 transition-all">
             Teklif Al
           </a>

@@ -4,7 +4,7 @@
     {
       "name": "bez-baski-dev",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev"],
+      "runtimeArgs": ["run", "dev", "--", "--port", "4323"],
       "port": 4323
     }
   ]

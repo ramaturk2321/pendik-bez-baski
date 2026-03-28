@@ -77,7 +77,7 @@ export const company = {
   founded: 1999,
   experience: 25,
   siteUrl: 'https://www.pendikbezbaski.com',
-  logoPath: '/images/uvlogo.jpeg',
+  logoPath: '/images/logo.png',
   legalNote: 'Pendik Bez Baskı Merkezi, Eymen Reklam ticari markasıdır.',
 };
 

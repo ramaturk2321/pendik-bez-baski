@@ -50,7 +50,7 @@ const blog = defineCollection({
     image: z.string(),
     category: z.string(),
     date: z.string(),
-    author: z.string().default('Pendik UV Baskı'),
+    author: z.string().default('Pendik Bez Baskı'),
     published: z.boolean().default(true),
   }),
 });
